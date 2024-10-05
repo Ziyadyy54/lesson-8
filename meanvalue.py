@@ -1,0 +1,9 @@
+correctvalue=45
+incorrectvalue=24
+averagevalue=26
+totalvalue=30
+sum=averagevalue*totalvalue
+print(sum)
+num25=sum-incorrectvalue+correctvalue
+therealaverage=num25/totalvalue
+print(therealaverage)
